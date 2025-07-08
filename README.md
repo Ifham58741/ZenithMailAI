@@ -12,7 +12,7 @@ ZenithMailAI integrates seamlessly with your Gmail inbox, utilizing advanced Lar
 - **AI Suggestions and Autocomplete**: Assists in drafting emails with AI-powered suggestions and autocomplete functionality.
 - **AI Insights**: Provides short summary of email content.
 - **Multi-Inbox Support**: Supports managing multiple Gmail inboxes within a single interface.
-- **Email-Client**: Capable of recieving, sending and replying to threads. 
+- **Email-Client**: Capablee of recieving, sending and replying to threads. 
 - **Subscription Tiers**: Offers both free and pro tiers, integrated with Stripe for payment processing.
 
 ## Getting Started
